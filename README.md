@@ -8,7 +8,7 @@ Run `ng generate component component-name --project login` to generate a new com
 > Note: Don't forget to add `--project login` or else it will be added to the default project in your `angular.json` file. 
 
 
-## Install De
+## Install Dependencies
     <!-- "primeflex": "^2.0.0",
     "primeicons": "^5.0.0",
     "primeng": "^13.4.1" -->
